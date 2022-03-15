@@ -1,0 +1,222 @@
+{
+  "main": {
+	"nickName":"Tavish",
+    "name":"Rambojun Tavish Kumar",
+    "occupation":"Application Support,Analyst, Software Developper, Gamer, Web Developper",
+    "description":"Started as Application Support Analyst with non-industrial Development Skills and talents.",
+    "image":"profilepic.jpg",
+    "bio":"My name is Tavish, I started my career with java skills an Application Support Analyst after my graduation, at Ceridian Mauritius and worked for StoredValueSolution Company for 3 years. Along side with Support Analyst, i have been working on several minor Development project to enhance my industrial Development skills. During these years, i have mastered SQL skills and unix C-Shell Scripting. Moreover, I have been giving training to newcommers.",
+    "contactmessage":"Keep in touch with me here",
+    "email": "r.tavish@icloud.com",
+    "phone": "+230 57846265",
+    "address":{
+      "street":"Riche Mare Road",
+      "city":"Central Flacq",
+      "state":"Flacq",
+	  "Country":"Mauritius",
+	  "nationality":"Mauritian",
+      "zip": "40618"
+    },
+    "website": "https://my-portfolio-2055f.web.app",
+    "resumedownload":"https://firebasestorage.googleapis.com/v0/b/my-portfolio-2055f.appspot.com/o/Tavish-Rambojun-CV%20and%20Profile.pdf?alt=media&token=d951c301-6d0b-483e-8580-f0793b87f3bf",
+    "social":[
+      {
+        "name":"Twitter",
+        "url":"https://twitter.com/rtavishk",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"Youtube",
+        "url":"https://www.youtube.com/user/rtavishk",
+        "className":"fa fa-youtube"
+      },
+      {
+        "name":"Linkedin",
+        "url":"https://www.linkedin.com/in/tavish-rambojun-10690b56/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"Instagram",
+        "url":"https://www.instagram.com/rtavishk/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"Github",
+        "url":"https://github.com/rtavishk",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Below are the Educations and Certificates that I have acquired",
+    "education":[
+	   {
+        "school":"Ceridian Learning Center",
+        "degree":"SQL server Certificate – Beginner and Intermediate Level ",
+        "graduated":"March 2018",
+        "description":"SQL Server Certification - PASSED"
+      },
+      {
+        "school":"University Of Mauritius",
+        "degree":"BSC (HONS) Software Engineering ",
+        "graduated":"October 2017",
+        "description":"Graduated with Second Class and Excelled in the Final Year Project | Top 10 Project ( Vessel Tracking System - View Work Section)"
+      },
+	  {
+        "school":"Mahatma Gandhi Secondary School Flacq",
+        "degree":"Cambridge Higher School Certificate ",
+        "graduated":"November 2017"
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Personal Family Business",
+        "title":"Banner Designer and Adverts",
+        "years":"January 2021 - Present",
+        "description":"Assisting in the designing of Banners / learned photoshop and animations / Designed Sign boards"
+      },       
+	  {
+        "company":"",
+        "title":"Crypto Currency/ Trader",
+        "years":"May 2021 - Present",
+        "description":"Learned the basics of Crypto. / How Crypto are generated and their blockchain. / Started Crypto Trading. / Setup several Automated Script using API to monitor Blockchain and Currency."
+      },       
+	  {
+        "company":"Accenture Operations",
+        "title":"Application Development Analyst Level 11",
+        "years":"November 2020 - December 2020",
+        "description":"Worked as Functional Support Analyst for SAUR Project / Created fully detailed documentation of several Application / Testing of the application / Solving Issues based on ticket Priority / Trained new joiner / Worked in the technical Side of process which comprises of Batch Jobs and SQL."
+      },      
+	  {
+        "company":"Personal Achievement",
+        "years":"October 2020 - December 2020",
+        "description":"Helped/Coached University Students with their Final Year projects and taught the basics of java Programming and SQL"
+      },
+      {
+        "company":"Ceridian Mauritius/SVS StoredValueSolution(US)",
+        "title":"Application Support Analyst level 1",
+        "years":"July 2017 - August 2020 (Due to COVID Issues)",
+		"description":"Analyst/Developper-------SVS - Stored Value Solution (101 Bullitt Ln #305, Louisville, KY 40222, USA) Mauritius -Lead and supported the SVS company(card gifting system) support team to monitor and setup batch jobs and ensuring that all SLA are completed on time. Work with clients to deliver customs reports based on SQL queries. - Setup Unix batch job (shell scripting) - Setup Tandem/HPE batch job (COBOL Script)  - Solved, fix and upgraded old batch job of the process.- Assisted the online team to resolve real time POS issues. - Collaborated with different functional teams on the same project. -Trained new recruits with detailed explanations on each tasks, project's process, SQL coach and UNIX coach. - Learn C#. Manipulated and developed UNIX shell Scripts to automate recurrent jobs and facilitate data transfer between applications. Automate Jobs (Sky-bot Job Scheduler/ Windows Task Scheduler/ Unix Crontab) - Documenting all changes made to Scripts/Objects and SQL as part of reporting responsibilities. - Ticket queue Management and resolutions. - Taking Ownership of the tickets and incidents. - Investigation of critical incidents/ Batch job crash and revert back to client with detailed explanations. - Resolve Incident via Ticket queue System (ServiceNow). - Make Changes to application/ SQL Manipulations/ Script via Changes Order Tickets. - Proposed Automation of Several daily Operations. ( Personal Java Desktop Application to Monitor jobs, Reports and SLA) -Reporting all Actions carried out during the shift including: Incidents Resolved. Openned Incident. Critical Change Order Substitutions. Critical Change Order Executed. -- Worked on several development projects in parallel. -- Attended Daily meetings and Scrum Meeting for Project developments. -- Proper decision making in order to resolve critical issue. (Proper time management)"
+      },
+      {
+        "company":"Ceridian Mauritius",
+        "title":"Software Engineer",
+        "years":"July 2017 - August 2020 ( Redundancy Due to COVID Issues)"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"CSS",
+        "level":"30%"
+      },
+      {
+        "name":"GIT",
+        "level":"50%"
+      },
+      {
+        "name":"HTML",
+        "level":"50%"
+      },
+      {
+        "name":"FIREBASE",
+        "level":"75%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA GUI AND DESKTOP APP.",
+        "level":"80%"
+      },
+      {
+        "name":"C# Knowledge",
+        "level":"40%"
+      },
+      {
+        "name":"C++ Knowledge",
+        "level":"40%"
+      },
+      {
+        "name":"UNIX Shell Scripting",
+        "level":"75%"
+      },
+      {
+        "name":"DB2/SQL",
+        "level":"75%"
+      },
+      {
+        "name":"SQL server",
+        "level":"75%"
+      },
+      {
+        "name":"Ability to quickly interact with any issue and find a fix",
+        "level":"80%"
+      },
+      {
+        "name":"Automation",
+        "level":"75%"
+      },
+      {
+        "name":"Quick Learner",
+        "level":"80%"
+      },
+      {
+        "name":"Tandem and Nonstop (HPE)",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Uber React Native Clone",
+        "category":"Replicated an Uber Web app",
+        "image":"uber.png",
+        "url":""
+      },      {
+        "title":"Instagram Clone",
+        "category":"Replicated an Instragram Web app",
+        "image":"instagram.jpg",
+        "url":"https://instagram-cloned-react.firebaseapp.com/"
+      },
+      {
+        "title":"Facebook Clone",
+        "category":"Replicated a Facebook Web app",
+        "image":"facebook.jpg",
+        "url":"https://social-media-fb.firebaseapp.com/"
+      },
+      {
+        "title":"Whatsapp Clone",
+        "category":"Replicated a Whatsapp Web app",
+        "image":"whatsapp.jpg",
+        "url":"https://chatc-af62b.firebaseapp.com/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume.jpg",
+        "url":""
+      },
+      {
+        "title":"University Final Year Project",
+        "category":"(Vessel Tracking System) University project. - Documentation",
+        "image":"VesselTracking.jpg",
+        "url":"https://firebasestorage.googleapis.com/v0/b/tavish-portfolio1ad.appspot.com/o/Vessel%20Tracking%20System%20Final%20Report.pdf?alt=media&token=05761e6b-1bd7-4f5d-8d99-1f0b6e00e092"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Testimonial Will be available upon Request.",
+        "user":""
+      }
+    ]
+  }
+}
